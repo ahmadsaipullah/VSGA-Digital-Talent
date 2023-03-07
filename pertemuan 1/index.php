@@ -15,9 +15,9 @@
   <?php echo "Nama : Ahmad Saifullah <br>
               Universitas : Universitas Muhammadiyah Tangerang  <br>
               Jurusan : Teknik Informatika <br>
-              Status : Kuliah
-  
-  "; ?>
+              Status : Kuliah";
+
+  ?>
 
 </body>
 
