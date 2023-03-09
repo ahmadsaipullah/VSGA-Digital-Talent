@@ -1,0 +1,28 @@
+[
+    {
+        "nik": "2055201058",
+        "nama": "Saipul Ahmad",
+        "jeniskelamin": "Laki-Laki",
+        "agama": "Islam",
+        "alamat": "Tangerang",
+        "no_hp": "087880182823",
+        "email": "ahmadsaipullah140@gmail.com",
+        "golongan": "III",
+        "gaji": "70000000",
+        "tunjangan": 3000000,
+        "total": 73000000
+    },
+    {
+        "nik": "1955201171",
+        "nama": "ipul",
+        "jeniskelamin": "Laki-Laki",
+        "agama": "Islam",
+        "alamat": "Tangerang",
+        "no_hp": "087880182823",
+        "email": "ahmadsaipullah911@gmail.com",
+        "golongan": "II",
+        "gaji": "80000000",
+        "tunjangan": 2000000,
+        "total": 82000000
+    }
+]
