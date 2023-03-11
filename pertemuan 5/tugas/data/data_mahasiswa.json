@@ -1,0 +1,50 @@
+[
+    {
+        "nama": "Saipul Ahmad",
+        "nim": "2055201058",
+        "jeniskelamin": "Laki-Laki",
+        "tempatlahir": "Tangerang",
+        "tanggallahir": "1999-11-05",
+        "agama": "Islam",
+        "alamat": "Tangerang",
+        "telpon": "087880182823",
+        "email": "ahmadsaipullah140@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "matkul": "pemograman java",
+        "nilai": "97",
+        "grade": "A",
+        "keterangan": "Lulus"
+    },
+    {
+        "nama": "Abimanyu  ",
+        "nim": "2055201055",
+        "jeniskelamin": "Laki-Laki",
+        "tempatlahir": "Tangerang",
+        "tanggallahir": "2023-03-01",
+        "agama": "Islam",
+        "alamat": "Tangerang",
+        "telpon": "087880182823",
+        "email": "ahmadsaipullah911@gmail.com",
+        "jurusan": "Teknik Mesin",
+        "matkul": "Rekayasa Perangkat Lunak",
+        "nilai": "65",
+        "grade": "D",
+        "keterangan": "Tidak Lulus"
+    },
+    {
+        "nama": "Mohammad Dimas Noufal",
+        "nim": "2155201112",
+        "jeniskelamin": "Laki-Laki",
+        "tempatlahir": "Bandar Lampuing",
+        "tanggallahir": "2003-10-26",
+        "agama": "Islam",
+        "alamat": "Tangerang",
+        "telpon": "089698093953",
+        "email": "dimas@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "matkul": "pemograman java",
+        "nilai": "100",
+        "grade": "A",
+        "keterangan": "Lulus"
+    }
+]
